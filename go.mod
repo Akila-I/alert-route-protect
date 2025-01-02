@@ -1,6 +1,6 @@
 module akila-i/github-oauth-go
 
-go 1.22.4
+go 1.19
 
 require (
 	github.com/google/go-github/v57 v57.0.0
